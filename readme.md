@@ -1,0 +1,2 @@
+Json itu adalah (javascript object notation) format pertukaran data yang ringan dan format ini tersedia bagi banyak bahasa lain termasuk Python, Ruby, PHP, dan Java. JSON biasanya dilafalkan seperti nama "Jason."
+rest api adalah REST itu kependakan dari REpresentational State Transfer yang merupakan standar arsitektur berbasis web yang menggunakan protokol HTTP untuk berkomunikasi data, salah satu dari desain di dalam API
