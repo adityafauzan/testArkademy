@@ -12,5 +12,5 @@ function password(data){
         console.log('password harus lebih dari 7')
     }
 }
-username ('bjuiubhjbb')
-password ('hahahahaha')
+username ('coba12')
+password ('p@ssW0rd9')
